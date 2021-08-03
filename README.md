@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanjeev-Karthick
 - 👀 I’m interested in full stack web devlelopment.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on wen development projects.
+- 💞️ I’m looking to collaborate on web development projects.
 
 
 <!---
