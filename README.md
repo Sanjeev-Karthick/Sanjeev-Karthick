@@ -27,15 +27,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjeev-Karthick&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/Sanjeev-Karthick">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Karthick&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Sanjeev-Karthick">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Sanjeev-Karthick&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sanjeev's GitHub Stats" />
-</a>
 
 
 
