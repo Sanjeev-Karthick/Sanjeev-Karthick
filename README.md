@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Karthick K</h1>
 <h3 align="center">Studying Computer Science and Engineering at College of Engineering, Guindy, Anna University.</h3>
 
-- 🌱 I’m currently learning about **Internet of Things (IoT)and Web3**
+- 🌱 I’m currently learning about **Internet of Things (IoT) and Web3**
 
 - 👯 I’m looking to collaborate on **Full Stack Development projects**
 
